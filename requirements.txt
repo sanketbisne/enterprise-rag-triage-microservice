@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langgraph>=0.0.15
+langchain-core
+langchain-google-vertexai
+python-dotenv
+faiss-cpu
+sentence-transformers
+google-cloud-discoveryengine
+pydantic
+langchain-google-genai
